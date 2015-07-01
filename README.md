@@ -8,5 +8,3 @@
   * export POWERSOCKET_PASS=notmyrealpassword
   * export POWERSOCKET_PATH=/path/to/stream.json
  * grunt
-
- This code will only display markers for tweets that have geo information in them.
